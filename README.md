@@ -1,13 +1,13 @@
 
- ### Hii , I'm Ethical_khoriya
+ ### 👋👋👋Hii , I'm Ethical_khoriya
 
- # About Me
-I am a Computer Science and Engineering student passionate about software development, MERN stack . I love exploring new technologies and applying them to solve real-world problems.
+ # 🤖 About Me
+I am a 🖥️ Computer Science and Engineering student passionate about software development, MERN stack . I ❤️ love exploring new technologies and applying them to solve real-world problems.
 -----------------------------------------
 - 🌱 I’m currently learning FULL STACK WEB DEV
 - 📫 How to reach me: ethicalkhoriya@gmail.com
   
-## 🌐 Socials:
+## 🌐 Socials 😎 :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethical_khoriya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-khoriya-4962a9229/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25448403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethical_khoriya) 
 
 # 💻 Tech Stack:
