@@ -8,6 +8,7 @@
 💬 Ask me about web development, React, and UI/UX design.
 ⚡ Fun fact: I love integrating creative design with functional code to create seamless user experiences.
 
+https://www.holopin.io/userbadge/cln82uv4q15650fmeku0oxcry
 ## 🌐 Socials 😎 :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethical_khoriya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-khoriya-4962a9229/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25448403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethical_khoriya) 
 
